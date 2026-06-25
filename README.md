@@ -6,7 +6,7 @@ This repository serves as the central core and simulation platform for the Smart
 
 ## 🛠 Project Structure
 
-- `SmartCar_Sim.pdsprj`  
+- `SmartCar_Simulation.pdsprj`  
   Main Proteus hardware simulation file.
 
 - `Hossein-SmartCar/`  
