@@ -1,3 +1,6 @@
 [submodule "Hossein-SmartCar"]
 	path = Hossein-SmartCar
 	url = https://github.com/Smart-Car-Dev/Hossein-SmartCar
+[submodule "Parinaz-SmartCar"]
+	path = Parinaz-SmartCar
+	url = https://github.com/Smart-Car-Dev/Parinaz-SmartCar
