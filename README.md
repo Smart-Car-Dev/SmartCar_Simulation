@@ -15,6 +15,9 @@ This repository serves as the central core and simulation platform for the Smart
 - `Parinaz-SmartCar/`  
   Submodule containing firmware for the **Environment Node** (Temperature, Light Sensors, & PWM Lighting Control).
 
+- `Salar-SmartCar/`  
+  Display node for real-time monitoring of Smart Car sensors with a modular architecture designed to support future protocol migrations.
+
 ---
 
 ## 🚀 Setup and Cloning Instructions (Important)
