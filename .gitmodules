@@ -7,3 +7,6 @@
 [submodule "Salar-SmartCar"]
 	path = Salar-SmartCar
 	url = https://github.com/Smart-Car-Dev/Salar-SmartCar
+[submodule "SmartCar-Dashboard"]
+	path = SmartCar-Dashboard
+	url = https://github.com/Smart-Car-Dev/SmartCar-Dashboard
