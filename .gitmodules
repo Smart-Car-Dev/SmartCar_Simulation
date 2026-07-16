@@ -10,3 +10,9 @@
 [submodule "SmartCar-Dashboard"]
 	path = SmartCar-Dashboard
 	url = https://github.com/Smart-Car-Dev/SmartCar-Dashboard
+[submodule "Sobhan-SmartCar"]
+	path = Sobhan-SmartCar
+	url = https://github.com/Smart-Car-Dev/TinyOD-STM32
+[submodule "Mahdi-SmartCar"]
+	path = Mahdi-SmartCar
+	url = https://github.com/Smart-Car-Dev/Mahdi-SmartCar-main
